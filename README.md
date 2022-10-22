@@ -18,7 +18,7 @@ About our website..!!
 
 Let’s get going to dig out the best products in your game & make ‘em available right at your doorstep. We will be glad to serve you in any city in India & speedily, so that you enjoy your product in the coming weekend!
 
-![a-img](![Uploading project-1.png…]())
+![a-img](![project-1](https://user-images.githubusercontent.com/103953608/197336505-a9f492eb-1796-4344-b624-4bc11ce77467.jpg))
 
 Scout through your favourite brands with latest technologies. Just click & be its proud owner, at the best available price in the market. Come, help us help you to fly high with your new & improved game with high quality sportsgear!
 
