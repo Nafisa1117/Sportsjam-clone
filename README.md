@@ -2,13 +2,19 @@
 
 Created a team collaboration project based on website sportsjam.in
 
-Our team name is WOLF --> Wireless Operations Linked Friends
+Buy Sports Goods Online India at best prices at Sportsjam.in
+India's leading Online Sports & Fitness Equipment Store. Enjoy
+shopping!
+
+----------------------------------------------------------
 
 How to use..!!
+-----------
 
 In homepage, under sports tab, user can click on Basketball, Boxing or Footbal to redirect to respective pages. User can also click on shopping cart button in home page to redirect to cart page and from there to shipping address page. At last click on continue in shipping address page to redirect to payment page and after clicking on make payment, last page of our website will open which is about payment being successful.
 
 About our website..!!
+------------------------
 
 Let’s get going to dig out the best products in your game & make ‘em available right at your doorstep. We will be glad to serve you in any city in India & speedily, so that you enjoy your product in the coming weekend!
 
@@ -25,6 +31,7 @@ Hey kids – don’t despair!! Check out our Juniors section for a plethora of g
 Enjoy your game!
 
 Team Members of Team WOLF
+------------------------------
 
 1) Nafisa Parveen (fw17_1117)
 2) Nitesh Samaniya (fw18_0433)
